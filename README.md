@@ -184,4 +184,4 @@ CalendarGroupMeeting/
 
 # 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais e de portfólio.
+This project is licensed under the MIT License.
