@@ -184,4 +184,4 @@ CalendarGroupMeeting/
 
 # 📄 Licença
 
-This project is licensed under the MIT License.
+Este projeto está licenciado sob a MIT License.
