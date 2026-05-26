@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".env.example" />
+    <File Path=".gitignore" />
+    <File Path="docker-compose.yaml" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CalendarGroupMeeting.Api/CalendarGroupMeeting.csproj" />
+</Solution>
